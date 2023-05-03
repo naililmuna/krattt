@@ -1,2 +1,2 @@
 # krattt
-child oriented repository
+coding playground for kids
